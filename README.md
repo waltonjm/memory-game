@@ -16,3 +16,4 @@ For help use the npm reference site: https://create-react-app.dev/docs/getting-s
 
 ## Roadmap
 No future improvements is anticipated for this project.
+![memory-game-screenshot](https://user-images.githubusercontent.com/99291782/165337113-04fb9429-c556-432f-a749-998a1e4f8a9e.png)
